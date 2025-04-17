@@ -24,5 +24,6 @@ target
 .project
 logs
 job
-
+*.xml
+*.yml
 templates
